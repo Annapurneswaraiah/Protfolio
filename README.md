@@ -9,7 +9,7 @@
 ## 🔗 Quick Links & Profiles
 
 - 🌐 **Live Website**: [https://annapurneswaraiah.github.io/Protfolio/](https://annapurneswaraiah.github.io/Protfolio/)
-- 💼 **LinkedIn**: [linkedin.com/in/nandyalaannapurneswaraiah-398155343](https://www.linkedin.com/in/nandyalaannapurneswaraiah-398155343/)
+- 💼 **LinkedIn**: [linkedin.com/in/annapurneswaraiah-nandyala-398155343](https://www.linkedin.com/in/annapurneswaraiah-nandyala-398155343/)
 - 🐙 **GitHub**: [github.com/Annapurneswaraiah](https://github.com/Annapurneswaraiah)
 - 🏆 **Kaggle**: [kaggle.com/userpunny (Rank 1985)](https://kaggle.com/userpunny)
 - 📧 **Email**: [annapurneswaraiah@gmail.com](mailto:annapurneswaraiah@gmail.com)
