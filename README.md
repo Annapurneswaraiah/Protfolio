@@ -44,8 +44,8 @@ Motivated Electronics & Communication Engineering student with a solid foundatio
 - Analyzed **20,000 flight records** across 35 attributes to diagnose delays, aircraft performance, and seasonal trends.
 - Built an interactive Power BI dashboard featuring dynamic slicers, KPI cards, and flight-status distributions.
 
-### 2. House Price Prediction System
-- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Seaborn | **Kaggle Rank: #1985**
+### 2. [House Price Prediction System](https://github.com/Annapurneswaraiah/House_Price_Prediction)
+- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Seaborn | **[Kaggle Rank: #1985](https://kaggle.com/userpunny)**
 - Preprocessed data handling missing values, duplicates, and outliers with the IQR method.
 - Evaluated and compared Linear Regression, Ridge, and Lasso with MAE, MSE, RMSE, and R² metrics.
 
